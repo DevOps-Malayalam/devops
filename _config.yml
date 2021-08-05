@@ -2,8 +2,10 @@
 # Site
 
 title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
-baseurl: ''
+#url: "https://proud-alligator.cloudvent.net"
+#baseurl: ''
+url: "https://devopsmalayalam.io/launch/"
+baseurl: "/launch"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
